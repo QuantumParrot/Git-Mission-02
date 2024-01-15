@@ -1,1 +1,4 @@
-# GitHub-Mission-02
+## 新增團隊成員
+
+- carrie
+- Ataraxia
